@@ -1,4 +1,4 @@
-package com.heartbridgeconnections.Android
+package com.heartbridgeconnections.heartbridge
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.heartbridgeconnections.Android
+package com.heartbridgeconnections.heartbridge
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

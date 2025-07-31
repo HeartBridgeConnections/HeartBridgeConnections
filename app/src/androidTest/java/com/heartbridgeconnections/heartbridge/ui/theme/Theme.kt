@@ -1,4 +1,4 @@
-package com.heartbridgeconnections.Android.ui.theme
+package com.heartbridgeconnections.heartbridge.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.*

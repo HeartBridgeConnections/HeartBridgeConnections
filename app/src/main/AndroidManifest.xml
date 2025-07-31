@@ -12,7 +12,7 @@
         android:theme="@style/Theme.ThriveCheckAI">
 
         <activity
-            android:name="com.heartbridgeconnections.Android.MainActivity"
+            android:name="com.heartbridgeconnections.heartbridge.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

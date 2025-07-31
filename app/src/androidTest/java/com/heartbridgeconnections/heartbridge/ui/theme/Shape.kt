@@ -1,4 +1,4 @@
-package com.heartbridgeconnections.Android.ui.theme
+package com.heartbridgeconnections.heartbridge.ui.theme
 
 import androidx.compose.material3.Shapes
 import androidx.compose.foundation.shape.RoundedCornerShape

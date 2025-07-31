@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.arclyghtai.android"
+    namespace = "com.arclyghtai.heartbridge"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.arclyghtai.android"
+        applicationId = "com.arclyghtai.heartbridge"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

@@ -1,5 +1,5 @@
-package com.heartbridgeconnections.Android
-import com.heartbridgeconnections.Android.ui.theme.ThriveCheckAITheme
+package com.heartbridgeconnections.heartbridge
+import com.heartbridgeconnections.heartbridge.ui.theme.ThriveCheckAITheme
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -10,7 +10,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.heartbridgeconnections.Android.ui.theme.ThriveCheckAITheme
+import com.heartbridgeconnections.heartbridge.ui.theme.ThriveCheckAITheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
